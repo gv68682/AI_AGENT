@@ -1,0 +1,10 @@
+langchain 
+langchain-community 
+llama-index 
+pypdf 
+faiss-cpu 
+huggingface_hub
+sentence-transformers
+python-dotenv
+ddgs
+langchain_google_genai
